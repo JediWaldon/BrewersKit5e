@@ -1,0 +1,209 @@
+{
+    "name": "Neshua Kadal",
+    "id": "e7335eb0-c9b3-49a7-a03d-8bac26ab716b",
+    "userId": "847cd92e-7da9-4ec9-87e6-2d0501902cc7",
+    "builderVersion": "0.7.6",
+    "image": "",
+    "user": "",
+    "experiencePoints": 0,
+    "species": {
+        "name": "Ithorian",
+        "abilityScoreImprovementSelectedOption": 0,
+        "abilityScoreImprovement": {}
+    },
+    "classes": [
+        {
+            "name": "Consular",
+            "levels": 1,
+            "hitPoints": [],
+            "abilityScoreImprovements": [],
+            "forcePowers": [
+                "Spirit Blade",
+                "Saber Reflect",
+                "Resistance",
+                "Give Life",
+                "Valor",
+                "Force Reflect",
+                "Force Blinding",
+                "Battle Precognition",
+                "Wound"
+            ]
+        }
+    ],
+    "baseAbilityScores": {
+        "Strength": 8,
+        "Dexterity": 13,
+        "Constitution": 10,
+        "Intelligence": 12,
+        "Wisdom": 15,
+        "Charisma": 14
+    },
+    "background": {
+        "name": "Jedi",
+        "feat": {
+            "name": "Force-Sensitive",
+            "type": "Feat"
+        },
+        "feature": ""
+    },
+    "characteristics": {
+        "alignment": "Balanced Neutral",
+        "Personality Traits": "",
+        "Ideal": "",
+        "Bond": "",
+        "Flaw": "",
+        "Gender": "",
+        "Place of Birth": "",
+        "Age": "",
+        "Height": "",
+        "Weight": "",
+        "Hair": "",
+        "Eyes": "",
+        "Skin": "",
+        "Appearance": "",
+        "Backstory": ""
+    },
+    "credits": 200,
+    "equipment": [
+        {
+            "name": "Lightsaber",
+            "quantity": 1,
+            "category": "Equipment",
+            "equipped": true
+        },
+        {
+            "name": "Holocomm",
+            "quantity": 1,
+            "category": "Equipment"
+        },
+        {
+            "name": "Clothes, traveler's",
+            "quantity": 1,
+            "category": "Equipment"
+        },
+        {
+            "name": "Credit chip",
+            "quantity": 1,
+            "category": "Equipment"
+        },
+        {
+            "name": "Medpac",
+            "quantity": 1,
+            "category": "Equipment"
+        },
+        {
+            "name": "Backpack",
+            "quantity": 1,
+            "category": "Equipment"
+        },
+        {
+            "name": "Bedroll",
+            "quantity": 1,
+            "category": "Equipment"
+        },
+        {
+            "name": "Blanket",
+            "quantity": 1,
+            "category": "Equipment"
+        },
+        {
+            "name": "Binders",
+            "quantity": 1,
+            "category": "Equipment"
+        },
+        {
+            "name": "Artificer's implements",
+            "quantity": 1,
+            "category": "Equipment"
+        }
+    ],
+    "currentStats": {
+        "hitPointsLost": 0,
+        "temporaryHitPoints": 0,
+        "techPointsUsed": 0,
+        "forcePointsUsed": 0,
+        "superiorityDiceUsed": 0,
+        "hitDiceUsed": {
+            "d6": 0
+        },
+        "deathSaves": {
+            "successes": 0,
+            "failures": 3
+        },
+        "hasInspiration": false,
+        "featuresTimesUsed": {},
+        "conditions": [],
+        "exhaustion": 0,
+        "highLevelCasting": {
+            "level6": false,
+            "level7": false,
+            "level8": false,
+            "level9": false
+        }
+    },
+    "tweaks": {
+        "abilityScores": {
+            "Wisdom": {
+                "skills": {
+                    "Medicine": {
+                        "bonus": null,
+                        "override": null,
+                        "proficiency": "Proficient"
+                    },
+                    "Insight": {
+                        "proficiency": "Proficient"
+                    }
+                }
+            },
+            "Intelligence": {
+                "skills": {
+                    "Lore": {
+                        "proficiency": "Proficient"
+                    }
+                },
+                "savingThrowModifier": {
+                    "bonus": null,
+                    "override": null
+                },
+                "score": {
+                    "bonus": -2,
+                    "override": null
+                }
+            },
+            "Charisma": {
+                "skills": {
+                    "Persuasion": {
+                        "proficiency": "Proficient"
+                    }
+                }
+            },
+            "Constitution": {
+                "score": {
+                    "bonus": 2,
+                    "override": null
+                }
+            }
+        }
+    },
+    "customProficiencies": [],
+    "customLanguages": [
+        "Ithorese"
+    ],
+    "customFeatures": [],
+    "customFeats": [],
+    "customTechPowers": [],
+    "customForcePowers": [
+        "Force Whisper",
+        "Force Push/Pull"
+    ],
+    "customEquipment": [],
+    "settings": {
+        "isEnforcingForcePrerequisites": true,
+        "isFixedHitPoints": false,
+        "abilityScoreMethod": "Standard Array"
+    },
+    "notes": "",
+    "createdAt": 1616783841318,
+    "changedAt": 1716229450825,
+    "localId": "temp-aqy0ovw0v"
+}

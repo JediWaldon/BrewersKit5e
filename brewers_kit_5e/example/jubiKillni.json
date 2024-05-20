@@ -1,0 +1,148 @@
+{
+    "name": "Jubi Killni",
+    "id": "9c019751-dbf5-4f57-88c8-99daf56ab80a",
+    "userId": "847cd92e-7da9-4ec9-87e6-2d0501902cc7",
+    "builderVersion": "0.5.12",
+    "image": "",
+    "user": "",
+    "experiencePoints": 300,
+    "species": {
+        "name": "Jawa",
+        "abilityScoreImprovementSelectedOption": 0,
+        "abilityScoreImprovement": {}
+    },
+    "classes": [
+        {
+            "name": "Operative",
+            "levels": 2,
+            "hitPoints": [
+                5
+            ],
+            "abilityScoreImprovements": []
+        }
+    ],
+    "baseAbilityScores": {
+        "Strength": 10,
+        "Dexterity": 15,
+        "Constitution": 14,
+        "Intelligence": 13,
+        "Wisdom": 12,
+        "Charisma": 8
+    },
+    "background": {
+        "name": "Criminal",
+        "feat": {
+            "name": "Stealthy",
+            "type": "Feat"
+        },
+        "feature": ""
+    },
+    "characteristics": {
+        "alignment": "Chaotic Balanced",
+        "Personality Traits": "",
+        "Ideal": "",
+        "Bond": "",
+        "Flaw": "",
+        "Gender": "",
+        "Place of Birth": "",
+        "Age": "",
+        "Height": "",
+        "Weight": "",
+        "Hair": "",
+        "Eyes": "",
+        "Skin": "",
+        "Appearance": "",
+        "Backstory": ""
+    },
+    "credits": 0,
+    "equipment": [
+        {
+            "name": "Blaster pistol",
+            "quantity": 1,
+            "category": "Equipment",
+            "equipped": true
+        },
+        {
+            "name": "Combat suit",
+            "quantity": 1,
+            "category": "Equipment",
+            "equipped": true
+        }
+    ],
+    "currentStats": {
+        "hitPointsLost": 0,
+        "temporaryHitPoints": 0,
+        "techPointsUsed": 0,
+        "forcePointsUsed": 0,
+        "superiorityDiceUsed": 0,
+        "hitDiceUsed": {
+            "d8": 0
+        },
+        "deathSaves": {
+            "successes": 0,
+            "failures": 0
+        },
+        "hasInspiration": false,
+        "featuresTimesUsed": {},
+        "conditions": [],
+        "exhaustion": 0,
+        "highLevelCasting": {
+            "level6": false,
+            "level7": false,
+            "level8": false,
+            "level9": false
+        },
+        "unspentLevels": 1
+    },
+    "tweaks": {
+        "abilityScores": {
+            "Dexterity": {
+                "score": {
+                    "bonus": 1,
+                    "override": null
+                },
+                "skills": {
+                    "Stealth": {
+                        "bonus": null,
+                        "override": null,
+                        "proficiency": "Expertise"
+                    },
+                    "Sleight of Hand": {
+                        "proficiency": "Proficient"
+                    },
+                    "Acrobatics": {
+                        "proficiency": "Proficient"
+                    }
+                }
+            },
+            "Intelligence": {
+                "skills": {
+                    "Technology": {
+                        "proficiency": "Expertise"
+                    },
+                    "Piloting": {
+                        "proficiency": "Expertise"
+                    }
+                }
+            }
+        }
+    },
+    "customProficiencies": [],
+    "customLanguages": [],
+    "customFeatures": [],
+    "customFeats": [],
+    "customTechPowers": [
+        "Ion Blast"
+    ],
+    "customForcePowers": [],
+    "customEquipment": [],
+    "settings": {
+        "isEnforcingForcePrerequisites": true,
+        "isFixedHitPoints": false,
+        "abilityScoreMethod": "Standard Array"
+    },
+    "notes": "",
+    "createdAt": 1616859688097,
+    "changedAt": 1616865871817,
+    "localId": "temp-sgjdwhki7"
+}
